@@ -1,0 +1,6 @@
+c:\users\elcot\documents\visual studio 2012\Projects\number_problems_advanced\number_problems_advanced\bin\Debug\number_problems_advanced.exe.config
+c:\users\elcot\documents\visual studio 2012\Projects\number_problems_advanced\number_problems_advanced\bin\Debug\number_problems_advanced.exe
+c:\users\elcot\documents\visual studio 2012\Projects\number_problems_advanced\number_problems_advanced\bin\Debug\number_problems_advanced.pdb
+c:\users\elcot\documents\visual studio 2012\Projects\number_problems_advanced\number_problems_advanced\obj\Debug\number_problems_advanced.exe
+c:\users\elcot\documents\visual studio 2012\Projects\number_problems_advanced\number_problems_advanced\obj\Debug\number_problems_advanced.pdb
+C:\Users\ELCOT\documents\visual studio 2012\Projects\number_problems_advanced\number_problems_advanced\obj\Debug\number_problems_advanced.csprojResolveAssemblyReference.cache
